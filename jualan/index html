@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Document</title>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" />
+</head>
+<body>
+  <div class="row">
+    <div class="container">
+  <h2 class="page-header">Jualan Batik</h2>
+    </div>
+  </div>
+  <div class="row">
+      <div class="container">
+        <div class="col-md-4">
+          <ul class="nav nav-pills nav-stacked">
+            <li role="presentation" class="active"><a href="#"><span class="glyphicon glyphicon-home"></span>Home</a></li>
+            <li role="presentation"><a href="#"><span class="glyphicon glyphicon-pencil"></span>Batik tulis</a></li>
+            <li role="presentation"><a href="#"><span class="glyphicon glyphicon-glass"></span>Batik cap</a></li>
+            <li role="presentation"><a href="#"><span class="glyphicon glyphicon-star"></span>Custom Desain</a></li>
+            <li role="presentation"><a href="#"><span class="glyphicon glyphicon-star-empty"></span>Daftar Harga</a></li>
+          </ul>        
+        </div>
+        <div class="col-md-8">
+    <div class="row">
+      <div class="container">
+        <div class="col-md-2">
+            <img src="http://www.modelbajubaru.net/wp-content/uploads/2014/06/Model-Baju-Batik-Kerja-Kombinasi.jpg" alt="" class="img-responsive thumbnail" />
+          <button type="button" class="btn btn-primary"><span class="glypicon glypicon-shooping-cart"></span>Rp 90.000</button>
+        </div>
+        <div class="col-md-2">
+            <img src="http://www.modelbajubaru.net/wp-content/uploads/2014/06/Model-Baju-Batik-Kerja-Kombinasi.jpg" alt="" class="img-responsive thumbnail" />
+           <button type="button" class="btn btn-primary"><span class="glypicon glypicon-shooping-cart"></span>Rp 90.000</button>
+        </div>
+        <div class="col-md-2">
+            <img src="http://www.modelbajubaru.net/wp-content/uploads/2014/06/Model-Baju-Batik-Kerja-Kombinasi.jpg" alt="" class="img-responsive thumbnail" />
+           <button type="button" class="btn btn-primary"><span class="glypicon glypicon-shooping-cart"></span>Rp 90.000</button>
+        </div>
+        <div class="col-md-2">
+            <img src="http://www.modelbajubaru.net/wp-content/uploads/2014/06/Model-Baju-Batik-Kerja-Kombinasi.jpg" alt="" class="img-responsive thumbnail" />
+           <button type="button" class="btn btn-primary"><span class="glypicon glypicon-shooping-cart"></span>Rp 90.000</button>
+        </div>
+      </div>
+    </div>
+  </div>
+    </div>
+</body>
+</html>
